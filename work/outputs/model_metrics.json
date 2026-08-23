@@ -1,7 +1,7 @@
 {
   "model_family": "RandomForestClassifier",
   "evaluation_split": "Honest Client-Grouped Split (Unseen Clients)",
-  "grouped_roc_auc": 0.853,
+  "grouped_roc_auc": 0.854,
   "grouped_precision_at_50": 0.74,
   "grouped_brier_score": 0.117,
   "queue_rows_generated": 319759,
